@@ -6,3 +6,7 @@ wodi
 ##kanzi
 
 ff=unix
+
+fff
+
+iolk
