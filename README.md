@@ -1,14 +1,8 @@
 # test
-just a test
+some thing shuou 
 
-## something
+wo kan xing 
 
-some change
-some line
-some no
-ddddd
-wodiaonima de
-nanika
-hello
-why
+## moudle
 
+set ff = unix
