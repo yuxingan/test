@@ -7,3 +7,5 @@ int main ()
 	return 0;
 }
 int fun();
+int testfun();
+int testwofun();
