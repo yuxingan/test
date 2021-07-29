@@ -10,3 +10,4 @@ int fun();
 int testfun();
 int testwofun();
 void test();
+void fun();
