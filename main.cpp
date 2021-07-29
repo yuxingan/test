@@ -9,3 +9,4 @@ int main ()
 int fun();
 int testfun();
 int testwofun();
+short fun();
