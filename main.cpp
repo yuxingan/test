@@ -13,3 +13,4 @@ void test();
 void fun();
 float fun();
 double fun();
+char fun();
