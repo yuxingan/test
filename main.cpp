@@ -12,3 +12,4 @@ int testwofun();
 void test();
 void fun();
 float fun();
+double fun();
