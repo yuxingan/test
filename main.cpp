@@ -14,3 +14,4 @@ void fun();
 float fun();
 double fun();
 char fun();
+unsigned fun();
