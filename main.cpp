@@ -9,6 +9,7 @@ int main ()
 int fun();
 int testfun();
 int testwofun();
+int test2fun();
 void test();
 void fun();
 float fun();
