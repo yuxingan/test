@@ -32,4 +32,5 @@
 *.app
 
 # my
-build/*
+build/
+*.vscode
